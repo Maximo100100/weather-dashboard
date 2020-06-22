@@ -1,1 +1,1 @@
-# [weather-dashboard] (https://maximo100100.github.io/weather-dashboard/)
+# [weather-dashboard](https://maximo100100.github.io/weather-dashboard/)
