@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+:root {
+    --primary-color: #13141d;
+    --secondary-color: #fcfcfc;
+    --tertiary-color: #314cc5;
+  }
+.text-on-blue {
+    color: var(--secondary-color)
+}
